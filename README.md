@@ -7,10 +7,7 @@ Tema 02. Entornos de desarrollo. Curso 2022/2023.
   - [Contenidos](#contenidos)
   - [Guias de instalación](#guias-de-instalación)
   - [Entornos de Desarrollo](#entornos-de-desarrollo)
-  - [Referencias](#referencias)
-  - [Recursos](#recursos)
-  - [Autor](#autor)
-    - [Contacto](#contacto)
+  
     - [¿Un café?](#un-café)
   - [Licencia de uso](#licencia-de-uso)
 
